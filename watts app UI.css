@@ -1,0 +1,250 @@
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 6px;
+    margin-top: 15px;
+    margin-right: 300px;
+  }
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+.md1{
+    border: 2px solid;
+    height: 560px;
+    width: 360px;
+    border-radius: 3px;
+    background-image: url(./perry.jpg);
+    overflow:scroll;
+    overflow-x: hidden;
+}
+img{
+     height: 45px;
+     width: 35px;
+     border-radius: 90%;
+     margin-top: -34px;
+     margin-right: 240px;
+     }
+.cd1{
+    position: fixed;
+    border: 1px solid;
+    width: 340px;
+    height: 50px;
+    margin-top: 1px;
+    border-radius: 5px;
+    background-color: grey;
+}
+h4{
+    margin-top: -40px;
+    margin-right: 130px;
+    color: white;
+}
+.call{
+   margin-top: -40px;
+    margin-left: 190px;
+}
+.fa{margin-left: 15px}
+.fas {margin-left: 10px;}
+.cd2{
+    position: sticky;
+    top: 58px;
+    border: 1px solid;
+    border-radius: 10%;
+    width: 60px;
+    background-color: gray;
+    color: white;
+}
+.cd3{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd4{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd5{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd6{
+    position: sticky;
+    top: 58px;
+    border: 1px solid;
+    border-radius: 10%;
+    width: 60px;
+    background-color: gray;
+    color: white;
+}
+.cd7{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd8{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}.cd9{
+    position: sticky;
+    top: 58px;
+    border: 1px solid;
+    border-radius: 10%;
+    width: 60px;
+    background-color: gray;
+    color: white;
+}
+.cd10{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd11{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd12{
+    position: sticky;
+    top: 58px;
+    border: 1px solid;
+    border-radius: 10%;
+    width: 60px;
+    background-color: gray;
+    color: white;
+}
+.cd13{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd14{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd15{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd16{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd17{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd18{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd19{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd20{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd21{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}.cd22{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd23{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd24{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd25{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
+.cd26{
+    border: 2px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: gray;
+    margin-left: 230px;
+}
